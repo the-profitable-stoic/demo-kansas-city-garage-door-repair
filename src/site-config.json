@@ -1,0 +1,588 @@
+{
+  "business": {
+    "name": "Kansas City Garage Door Repair",
+    "phone": "+18165790920",
+    "category": "garage door repair",
+    "city": "Kansas City",
+    "state": "MO"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-red-charge",
+      "categoryGroup": "roofing",
+      "name": "Red Charge",
+      "recipeFile": "roofing/red-charge.astro",
+      "colors": {
+        "primary": "#1F3A56",
+        "primaryDark": "#152B42",
+        "primaryLight": "#D0DCE8",
+        "secondary": "#2B4C6F",
+        "accent": "#DC143C",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1F3A56",
+        "surface": "#F5F7FA",
+        "text": "#111827",
+        "textLight": "#6B7280",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "DM Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/red-charge"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "KC's Garage Door Experts",
+      "heroSubline": "Fast, reliable repairs and installations across Kansas City. We handle the toughest jobs, so you don't have to.",
+      "aboutTitle": "Decades of Kansas City Garage Door Expertise",
+      "aboutText": [
+        "Kansas City Garage Door Repair started with a simple mission: provide honest, dependable service to our neighbors. We're a family-owned business, born and raised right here in the metro, and we understand the unique challenges our climate throws at your garage doors.",
+        "We don't cut corners. Our team uses only the highest-quality parts and proven techniques to ensure lasting repairs. Whether it's a broken spring on a freezing January morning or a misaligned track after a summer storm, we're prepared to get your door working smoothly again.",
+        "We're proud to be a part of the Kansas City community. We support local charities and strive to build lasting relationships with our customers. When you choose us, you're choosing a team that's invested in your satisfaction and the well-being of our city."
+      ],
+      "valueProps": [
+        {
+          "title": "24/7 Emergency Service",
+          "description": "Garage door emergencies don't wait, and neither do we. Call us anytime, day or night, for immediate assistance."
+        },
+        {
+          "title": "Experienced Technicians",
+          "description": "Our team is highly trained and experienced in all aspects of garage door repair and installation. We get the job done right the first time."
+        },
+        {
+          "title": "Upfront Pricing",
+          "description": "No hidden fees or surprises. We provide clear, detailed estimates before starting any work."
+        },
+        {
+          "title": "Local Expertise",
+          "description": "We understand the unique challenges of Kansas City's climate and housing stock, ensuring lasting repairs."
+        }
+      ],
+      "ctaHeadline": "Get Your Garage Door Fixed Today",
+      "ctaSubline": "Call now for fast, reliable service across the Kansas City metro area."
+    },
+    "services": [
+      {
+        "slug": "spring-replacement",
+        "name": "Garage Door Spring Replacement",
+        "shortDescription": "Fast, reliable spring replacement to get your door moving again.",
+        "description": "Garage door springs are under immense tension and can be extremely dangerous to handle without the proper tools and experience. Don't risk injury – let our skilled technicians safely and efficiently replace your broken springs. We carry a wide range of high-quality springs to match your door's specific weight and dimensions, ensuring optimal performance and longevity. Our Kansas City weather, with its freeze-thaw cycles, puts extra stress on these components, leading to premature failure. \n\nWe'll assess the condition of both springs (even if only one is broken) and recommend replacing them as a pair to maintain balance and prevent future issues. We also inspect other critical hardware, such as cables and rollers, to identify any potential problems and offer comprehensive solutions. Replacing springs on older homes in Brookside or Waldo requires a different approach than newer developments in Northland, and we have the expertise to handle both.\n\nOur spring replacement service includes proper disposal of the old springs, lubrication of moving parts, and a thorough safety check to ensure your garage door operates smoothly and safely. We stand behind our work with a satisfaction guarantee.",
+        "process": [
+          "Step 1: Safety Inspection and Assessment",
+          "Step 2: Removal of Old Springs",
+          "Step 3: Installation of New, Matched Springs",
+          "Step 4: Tension Adjustment and Lubrication"
+        ],
+        "benefits": [
+          "Safe and reliable operation",
+          "Extended lifespan of your garage door",
+          "Reduced risk of future breakdowns",
+          "Proper balance and smooth movement"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my garage door spring is broken?",
+            "answer": "Common signs include a loud bang, a visible gap in the spring, or a garage door that won't open or closes unevenly. Never attempt to operate the door if you suspect a broken spring."
+          },
+          {
+            "question": "How long does spring replacement take?",
+            "answer": "In most cases, spring replacement can be completed in under an hour. However, it depends on the type of door and the complexity of the job."
+          },
+          {
+            "question": "Are your springs under warranty?",
+            "answer": "Yes, we offer a warranty on all of our springs and our workmanship. Ask your technician for details."
+          }
+        ]
+      },
+      {
+        "slug": "cable-repair",
+        "name": "Garage Door Cable Repair",
+        "shortDescription": "Expert cable repair and replacement to keep your door operating safely.",
+        "description": "Garage door cables play a vital role in lifting and lowering your door. When these cables fray, snap, or become loose, it can create a dangerous situation. Don't attempt to repair or replace cables yourself – call the professionals at Kansas City Garage Door Repair. We have the tools and expertise to handle cable repairs safely and efficiently.\n\nOur technicians will thoroughly inspect your cables, pulleys, and drums to identify the source of the problem. We use only high-quality replacement cables that are specifically designed for your door's weight and dimensions. We're familiar with the cable systems used in the older homes of Westport and the modern systems in Lee's Summit, allowing us to provide tailored solutions.\n\nWe ensure proper cable tension and alignment, which is crucial for smooth and safe operation. We also check the condition of other hardware components, such as rollers and hinges, to identify any potential issues. Ignoring cable problems can lead to more serious damage to your garage door and opener. Our cable repair service prevents that and keeps your system running smoothly.",
+        "process": [
+          "Step 1: Safety Inspection and Assessment",
+          "Step 2: Cable Detachment and Removal",
+          "Step 3: Installation of New Cables",
+          "Step 4: Tension Adjustment and Safety Check"
+        ],
+        "benefits": [
+          "Safe and reliable garage door operation",
+          "Prevention of further damage",
+          "Extended lifespan of your garage door system",
+          "Smooth and quiet operation"
+        ],
+        "faq": [
+          {
+            "question": "What causes garage door cables to break?",
+            "answer": "Common causes include wear and tear, corrosion, improper installation, and unbalanced springs. Regular maintenance can help prevent cable failures."
+          },
+          {
+            "question": "Can I replace the cables myself?",
+            "answer": "Replacing garage door cables can be dangerous due to the high tension involved. It's best to leave this task to experienced professionals."
+          },
+          {
+            "question": "How often should I inspect my garage door cables?",
+            "answer": "We recommend inspecting your cables at least twice a year for signs of wear and tear. If you notice any fraying or damage, call us immediately."
+          }
+        ]
+      },
+      {
+        "slug": "opener-repair",
+        "name": "Garage Door Opener Repair",
+        "shortDescription": "Reliable opener repair services to get your garage door working automatically.",
+        "description": "A malfunctioning garage door opener can be a major inconvenience and security risk. Kansas City Garage Door Repair offers comprehensive opener repair services to address any issue, from a simple remote problem to a complete motor failure. We service all major brands of garage door openers, including Chamberlain, LiftMaster, Genie, and Craftsman.\n\nOur experienced technicians will diagnose the problem and provide a cost-effective solution. Whether it's a faulty sensor, a broken gear, or a wiring issue, we have the expertise to get your opener working again. We understand the challenges posed by older openers in neighborhoods like Waldo and the newer, smart-home-compatible openers found in Overland Park.\n\nWe also offer opener replacement services if your existing unit is beyond repair or outdated. We can help you choose a new opener that meets your needs and budget, with features like battery backup, smartphone control, and enhanced security. Our opener repair service ensures that your garage door operates safely and reliably, protecting your family and your property.",
+        "process": [
+          "Step 1: Diagnostic Assessment",
+          "Step 2: Component Inspection and Repair",
+          "Step 3: Opener Adjustment and Lubrication",
+          "Step 4: Safety Sensor Alignment and Testing"
+        ],
+        "benefits": [
+          "Convenient and reliable garage door operation",
+          "Enhanced security",
+          "Extended lifespan of your opener",
+          "Quiet operation"
+        ],
+        "faq": [
+          {
+            "question": "Why is my garage door opener not working?",
+            "answer": "Common causes include a power outage, dead batteries in the remote, faulty safety sensors, or a malfunctioning motor. We can diagnose the problem and provide a solution."
+          },
+          {
+            "question": "How long does a garage door opener last?",
+            "answer": "With proper maintenance, a garage door opener can last 10-15 years. However, factors like usage and climate can affect its lifespan."
+          },
+          {
+            "question": "Do you offer smart garage door openers?",
+            "answer": "Yes, we offer a wide range of smart garage door openers that can be controlled with your smartphone or other smart devices."
+          }
+        ]
+      },
+      {
+        "slug": "track-alignment",
+        "name": "Garage Door Track Alignment",
+        "shortDescription": "Professional track alignment services to ensure smooth and safe door operation.",
+        "description": "Misaligned garage door tracks can cause your door to bind, jam, or even come off the tracks completely. This can be a dangerous situation and can also damage your door and opener. Kansas City Garage Door Repair offers expert track alignment services to restore smooth and safe operation.\n\nOur technicians will carefully inspect your tracks for bends, dents, or misalignment. We'll use specialized tools and techniques to straighten and realign the tracks, ensuring they are properly positioned and securely fastened. We understand the unique challenges presented by the older, often heavier, doors in areas like Brookside, where track issues are common due to settling foundations.\n\nWe also check the rollers and hinges for wear and tear, and we'll replace any damaged components. Proper track alignment is essential for smooth and reliable garage door operation. Our track alignment service prevents further damage and extends the lifespan of your garage door system.",
+        "process": [
+          "Step 1: Track Inspection and Assessment",
+          "Step 2: Track Straightening and Realignment",
+          "Step 3: Roller and Hinge Inspection",
+          "Step 4: Lubrication and Safety Check"
+        ],
+        "benefits": [
+          "Smooth and reliable garage door operation",
+          "Prevention of further damage",
+          "Extended lifespan of your garage door system",
+          "Reduced noise"
+        ],
+        "faq": [
+          {
+            "question": "What causes garage door tracks to become misaligned?",
+            "answer": "Common causes include impacts, settling foundations, and loose hardware. Regular maintenance can help prevent track misalignment."
+          },
+          {
+            "question": "Can I realign the tracks myself?",
+            "answer": "Realigning garage door tracks can be dangerous due to the weight of the door and the potential for injury. It's best to leave this task to experienced professionals."
+          },
+          {
+            "question": "How often should I inspect my garage door tracks?",
+            "answer": "We recommend inspecting your tracks at least twice a year for signs of damage or misalignment. If you notice any problems, call us immediately."
+          }
+        ]
+      },
+      {
+        "slug": "roller-replacement",
+        "name": "Garage Door Roller Replacement",
+        "shortDescription": "Quiet, durable roller replacement for smooth and efficient door movement.",
+        "description": "Worn or damaged garage door rollers can cause your door to be noisy, jerky, and difficult to operate. Kansas City Garage Door Repair offers professional roller replacement services to restore smooth and quiet operation. We use only high-quality rollers that are designed to last.\n\nOur technicians will inspect your rollers for wear and tear, and we'll replace any damaged components with durable nylon or steel rollers. We understand the importance of using the right type of roller for your specific door and track system. The older homes of Kansas City often have unique track systems that require specialized knowledge. We can handle it.\n\nWe also lubricate the rollers and tracks to ensure smooth and quiet operation. Replacing worn rollers can also prevent damage to your tracks and opener. Our roller replacement service ensures that your garage door operates smoothly and efficiently, reducing noise and extending the lifespan of your system.",
+        "process": [
+          "Step 1: Roller Inspection and Assessment",
+          "Step 2: Old Roller Removal",
+          "Step 3: New Roller Installation",
+          "Step 4: Lubrication and Safety Check"
+        ],
+        "benefits": [
+          "Smooth and quiet garage door operation",
+          "Extended lifespan of your garage door system",
+          "Reduced noise",
+          "Improved efficiency"
+        ],
+        "faq": [
+          {
+            "question": "How often should I replace my garage door rollers?",
+            "answer": "We recommend replacing your rollers every 5-7 years, or sooner if you notice signs of wear and tear."
+          },
+          {
+            "question": "What type of rollers are best for my garage door?",
+            "answer": "The best type of roller depends on the weight and type of your door. We can help you choose the right rollers for your specific needs."
+          },
+          {
+            "question": "Can I replace the rollers myself?",
+            "answer": "Replacing garage door rollers can be tricky, especially if you're not familiar with the process. It's best to leave this task to experienced professionals."
+          }
+        ]
+      },
+      {
+        "slug": "weather-seal-replacement",
+        "name": "Garage Door Weather Seal Replacement",
+        "shortDescription": "Expert weather seal replacement to protect your garage from the elements.",
+        "description": "A damaged or worn weather seal can allow drafts, water, and pests to enter your garage, increasing your energy bills and potentially damaging your belongings. Kansas City Garage Door Repair offers professional weather seal replacement services to protect your garage from the elements.\n\nOur technicians will remove the old weather seal and install a new, high-quality seal that provides a tight and effective barrier. We use only durable weather seals that are designed to withstand the harsh Kansas City climate, including extreme temperatures and frequent precipitation. The changing seasons put a lot of wear and tear on these seals, so regular replacement is vital.\n\nWe offer a variety of weather seal options to fit your specific door and budget. Our weather seal replacement service helps to keep your garage clean, dry, and energy-efficient.",
+        "process": [
+          "Step 1: Old Seal Removal",
+          "Step 2: Surface Preparation",
+          "Step 3: New Seal Installation",
+          "Step 4: Sealing and Adjustment"
+        ],
+        "benefits": [
+          "Protection from the elements",
+          "Reduced energy bills",
+          "Prevention of pest infestations",
+          "Improved comfort"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my weather seal needs to be replaced?",
+            "answer": "Signs of a damaged weather seal include drafts, water leaks, and visible cracks or tears."
+          },
+          {
+            "question": "What type of weather seal is best for my garage door?",
+            "answer": "The best type of weather seal depends on the type of door and the climate. We can help you choose the right seal for your specific needs."
+          },
+          {
+            "question": "How often should I replace my weather seal?",
+            "answer": "We recommend replacing your weather seal every 3-5 years, or sooner if you notice signs of damage."
+          }
+        ]
+      },
+      {
+        "slug": "emergency-repair",
+        "name": "24/7 Emergency Garage Door Repair",
+        "shortDescription": "Fast, reliable emergency repair services available 24/7.",
+        "description": "A broken garage door can be a major inconvenience and security risk, especially if it happens outside of normal business hours. Kansas City Garage Door Repair offers 24/7 emergency repair services to address any urgent issue, from a broken spring to a door that's stuck open. We understand that these problems often occur at the worst possible time, and we're here to help.\n\nOur experienced technicians are available around the clock to provide fast and reliable repairs. We'll arrive quickly, diagnose the problem, and provide a cost-effective solution. We keep a fully stocked van so we can handle most common repairs on the spot. Whether you're in Brookside, Olathe, or Lee's Summit, we have teams ready to assist with any emergency.\n\nWe prioritize safety and security, ensuring that your garage door is properly secured and functioning correctly before we leave. Our emergency repair service provides peace of mind, knowing that help is always just a phone call away.",
+        "process": [
+          "Step 1: Immediate Response and Dispatch",
+          "Step 2: On-Site Assessment and Diagnosis",
+          "Step 3: Emergency Repair and Stabilization",
+          "Step 4: Safety Check and Documentation"
+        ],
+        "benefits": [
+          "Fast and reliable service",
+          "24/7 availability",
+          "Peace of mind",
+          "Enhanced security"
+        ],
+        "faq": [
+          {
+            "question": "What constitutes a garage door emergency?",
+            "answer": "Any situation that poses a safety risk or prevents you from securing your garage, such as a broken spring, a door that's stuck open, or a malfunctioning opener."
+          },
+          {
+            "question": "How quickly can you respond to an emergency call?",
+            "answer": "We strive to respond to emergency calls as quickly as possible, typically within 30-60 minutes, depending on your location and our current workload."
+          },
+          {
+            "question": "Do you charge extra for emergency service?",
+            "answer": "Yes, we do charge a premium for emergency service to cover the cost of after-hours and weekend availability. However, we'll always provide you with a clear and upfront estimate before starting any work."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Overland Park",
+        "slug": "overland-park-mo",
+        "state": "MO",
+        "content": "Kansas City Garage Door Repair is proud to offer comprehensive garage door services to the residents of Overland Park, Missouri. From the established suburbs built in the 1970s through the 1990s to newer developments, we understand the specific needs of homeowners in this vibrant community. We're committed to providing prompt, reliable, and professional service to keep your garage door functioning smoothly and securely. \n\nOur team is equipped to handle all types of garage door repairs, installations, and maintenance. We know that Overland Park winters can bring ice storms and freezing temperatures, which can put extra stress on your garage door system. Whether you need a spring replacement, opener repair, or a complete garage door overhaul, we're here to help protect your home and family.",
+        "localContext": "Overland Park, with its large population and family-friendly environment, has a variety of housing styles, many of which feature attached garages that are essential for daily life. We understand the importance of a functioning garage door in this busy suburban setting.",
+        "nearbyAreas": [
+          "Leawood",
+          "Lenexa",
+          "Prairie Village"
+        ]
+      },
+      {
+        "city": "Olathe",
+        "slug": "olathe-mo",
+        "state": "MO",
+        "content": "Kansas City Garage Door Repair provides expert garage door services to the growing community of Olathe, Missouri. With its many family-oriented developments built from the 1980s through the 2000s, Olathe residents rely on their garage doors for convenient access and secure storage. We're dedicated to providing top-quality service to keep your garage door operating at its best. \n\nWe offer a full range of services, including garage door repair, installation, and maintenance. We know that Olathe experiences cold winters with ice storms, which can lead to garage door malfunctions. Our technicians are trained to diagnose and repair any issue, from broken springs to faulty openers, ensuring your family’s safety and convenience.",
+        "localContext": "Olathe's rapid growth and focus on family living means many residents depend on their garage doors for daily commutes and household storage. A reliable garage door is essential for the Olathe lifestyle.",
+        "nearbyAreas": [
+          "Gardner",
+          "Lenexa",
+          "Spring Hill"
+        ]
+      },
+      {
+        "city": "Lee's Summit",
+        "slug": "lee-s-summit-mo",
+        "state": "MO",
+        "content": "Kansas City Garage Door Repair is proud to serve the residents of Lee's Summit, Missouri, offering reliable and affordable garage door services.  From the established neighborhoods featuring homes built in the 1970s through the 1990s, we understand the unique needs of homeowners in this thriving community. We're committed to providing prompt, professional service to keep your garage door working smoothly and securely.\n\nOur team is equipped to handle all types of garage door repairs, installations, and maintenance. Lee's Summit winters can bring ice storms and freezing temperatures, which can put extra stress on your garage door system. Whether you need a spring replacement, opener repair, or a complete garage door overhaul, we're here to help safeguard your home and family.",
+        "localContext": "Lee's Summit's mix of established and growing neighborhoods means many residents depend on their garage doors for convenient access and secure storage. A reliable garage door is essential for the Lee's Summit lifestyle.",
+        "nearbyAreas": [
+          "Blue Springs",
+          "Independence",
+          "Raytown"
+        ]
+      },
+      {
+        "city": "Independence",
+        "slug": "independence-mo",
+        "state": "MO",
+        "content": "Kansas City Garage Door Repair extends its expert services to Independence, Missouri, providing residents with dependable garage door solutions. Known for its rich history and diverse housing, Independence homeowners trust us to maintain and repair their garage doors efficiently. We prioritize prompt, reliable, and professional service to ensure your garage door operates smoothly and securely, enhancing your home's functionality and safety. \n\nOur skilled technicians handle all types of garage door repairs, installations, and maintenance. We understand the impact of Independence's varying weather conditions on garage door systems, from frigid winters to hot summers. Whether you require a spring replacement, opener repair, or a complete garage door upgrade, we are here to assist you in protecting your home and family.",
+        "localContext": "Independence, with its historical significance and mix of older and newer homes, has diverse garage door needs. We are familiar with the challenges and provide tailored solutions to ensure optimal performance.",
+        "nearbyAreas": [
+          "Blue Springs",
+          "Raytown",
+          "Lee's Summit"
+        ]
+      },
+      {
+        "city": "Blue Springs",
+        "slug": "blue-springs-mo",
+        "state": "MO",
+        "content": "Kansas City Garage Door Repair proudly serves the community of Blue Springs, Missouri, delivering top-notch garage door services to its residents. Known for its family-friendly atmosphere and growing neighborhoods, Blue Springs homeowners rely on us for reliable and efficient garage door solutions. We are dedicated to providing prompt, professional service to ensure your garage door operates smoothly and securely, enhancing your home's convenience and safety. \n\nOur experienced technicians are well-equipped to handle all types of garage door repairs, installations, and maintenance. We understand the impact of Blue Springs' seasonal weather conditions on garage door systems, from freezing winters to humid summers. Whether you need a spring replacement, opener repair, or a complete garage door installation, we are here to help protect your home and family.",
+        "localContext": "Blue Springs, with its focus on family living and growing residential areas, sees many residents relying on their garage doors daily. A functional garage door is essential to the Blue Springs lifestyle.",
+        "nearbyAreas": [
+          "Independence",
+          "Grain Valley",
+          "Lee's Summit"
+        ]
+      },
+      {
+        "city": "Raytown",
+        "slug": "raytown-mo",
+        "state": "MO",
+        "content": "Kansas City Garage Door Repair is committed to providing exceptional garage door services to the residents of Raytown, Missouri. Known for its close-knit community and established neighborhoods, Raytown homeowners trust us to deliver reliable and affordable garage door solutions. We are dedicated to providing prompt, professional service to keep your garage door functioning smoothly and securely, enhancing your home's accessibility and security. \n\nOur team of skilled technicians is prepared to handle all types of garage door repairs, installations, and maintenance. We understand the impact of Raytown's seasonal weather conditions on garage door systems, from cold winters to warm summers. Whether you need a spring replacement, opener repair, or a complete garage door upgrade, we are here to assist you in safeguarding your home and family.",
+        "localContext": "Raytown's strong community spirit and established residential areas mean many residents rely on their garage doors for daily needs and secure storage. A reliable garage door is essential for the Raytown lifestyle.",
+        "nearbyAreas": [
+          "Independence",
+          "Grandview",
+          "Lee's Summit"
+        ]
+      },
+      {
+        "city": "Grandview",
+        "slug": "grandview-mo",
+        "state": "MO",
+        "content": "Kansas City Garage Door Repair offers expert garage door services to the residents of Grandview, Missouri, providing dependable solutions for all your garage door needs. Known for its diverse community and convenient location, Grandview homeowners rely on us to maintain and repair their garage doors effectively. We prioritize prompt, reliable, and professional service to ensure your garage door operates smoothly and securely, enhancing your home's functionality and curb appeal. \n\nOur experienced technicians can handle all types of garage door repairs, installations, and maintenance. We understand the impact of Grandview's seasonal weather conditions on garage door systems, from cold winters to warm summers. Whether you require a spring replacement, opener repair, or a complete garage door installation, we are here to assist you in protecting your home and family.",
+        "localContext": "Grandview, with its diverse community and mix of residential areas, has varying garage door needs. We are familiar with the challenges and provide tailored solutions to ensure optimal performance.",
+        "nearbyAreas": [
+          "Raytown",
+          "Belton",
+          "Kansas City"
+        ]
+      },
+      {
+        "city": "Belton",
+        "slug": "belton-mo",
+        "state": "MO",
+        "content": "Kansas City Garage Door Repair is proud to serve the residents of Belton, Missouri, providing reliable and affordable garage door services. Known for its friendly community and growing residential areas, Belton homeowners trust us to deliver prompt and efficient garage door solutions. We are committed to providing prompt, professional service to keep your garage door functioning smoothly and securely, enhancing your home's accessibility and security. \n\nOur team of skilled technicians is well-equipped to handle all types of garage door repairs, installations, and maintenance. We understand the impact of Belton's seasonal weather conditions on garage door systems, from cold winters to warm summers. Whether you need a spring replacement, opener repair, or a complete garage door upgrade, we are here to assist you in safeguarding your home and family.",
+        "localContext": "Belton's close-knit community and growing residential areas mean many residents rely on their garage doors for daily needs and secure storage. A reliable garage door is essential for the Belton lifestyle.",
+        "nearbyAreas": [
+          "Grandview",
+          "Raymore",
+          "Pleasant Hill"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah K.",
+        "rating": 5,
+        "service": "Spring Replacement",
+        "text": "Our garage door spring snapped on a Saturday morning. I called Kansas City Garage Door Repair, and they were at my house within an hour! The technician was professional, efficient, and explained everything clearly. Highly recommend!",
+        "date": "2024-11-15"
+      },
+      {
+        "name": "David M.",
+        "rating": 4,
+        "service": "Opener Repair",
+        "text": "My garage door opener stopped working, and I couldn't get my car out. Kansas City Garage Door Repair came out the same day and fixed it quickly. The price was reasonable, and the technician was friendly and knowledgeable.",
+        "date": "2024-10-28"
+      },
+      {
+        "name": "Emily L.",
+        "rating": 5,
+        "service": "Cable Repair",
+        "text": "The cable on my garage door snapped, and I was worried about the door falling. Kansas City Garage Door Repair came out right away and replaced the cable. They did a great job, and I feel much safer now.",
+        "date": "2024-09-03"
+      },
+      {
+        "name": "Robert B.",
+        "rating": 5,
+        "service": "Track Alignment",
+        "text": "Our garage door was making a horrible grinding noise and wouldn't close properly. Kansas City Garage Door Repair realigned the tracks and replaced the rollers. It's now working perfectly and is so much quieter! Great service.",
+        "date": "2024-08-12"
+      },
+      {
+        "name": "Jessica P.",
+        "rating": 4,
+        "service": "Weather Seal Replacement",
+        "text": "I noticed a draft coming from under my garage door. Kansas City Garage Door Repair replaced the weather seal, and it's made a big difference. The garage is much warmer now, and I'm sure I'll save money on my energy bills.",
+        "date": "2024-07-21"
+      },
+      {
+        "name": "Michael S.",
+        "rating": 5,
+        "service": "New Garage Door Installation",
+        "text": "We had Kansas City Garage Door Repair install a new garage door, and the entire process was seamless. From the initial consultation to the final installation, they were professional, helpful, and efficient. The new door looks great and works perfectly.",
+        "date": "2024-06-10"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "KC Garage Door Repair | Fast Service",
+        "description": "Kansas City's top garage door repair & installation. 24/7 emergency service. Broken springs, openers, cables & more. Call now!"
+      },
+      "about": {
+        "title": "About Us | Kansas City Garage Door Repair",
+        "description": "Learn about Kansas City Garage Door Repair - our mission, values, and commitment to serving the KC metro area. Family-owned and operated."
+      },
+      "services": {
+        "title": "Garage Door Services | KC Garage Door Repair",
+        "description": "Comprehensive garage door services in Kansas City: spring replacement, opener repair, cable repair, track alignment, and more. Fast, reliable service."
+      },
+      "contact": {
+        "title": "Contact Us | Kansas City Garage Door Repair",
+        "description": "Contact Kansas City Garage Door Repair for fast, reliable service. Call us today for a free estimate or to schedule an appointment."
+      },
+      "reviews": {
+        "title": "Customer Reviews | KC Garage Door Repair",
+        "description": "Read reviews from satisfied customers of Kansas City Garage Door Repair. See why we're the trusted choice for garage door repair in KC."
+      },
+      "service-areas": {
+        "title": "Service Areas | KC Garage Door Repair",
+        "description": "Kansas City Garage Door Repair provides service to Overland Park, Olathe, Lee's Summit, and surrounding areas. Call today for a free quote!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "spring-replacement": "/images/service-spring-replacement.webp",
+      "cable-repair": "/images/service-cable-repair.webp",
+      "opener-repair": "/images/service-opener-repair.webp",
+      "track-alignment": "/images/service-track-alignment.webp",
+      "roller-replacement": "/images/service-roller-replacement.webp",
+      "weather-seal-replacement": "/images/service-weather-seal-replacement.webp",
+      "emergency-repair": "/images/service-emergency-repair.webp"
+    },
+    "servicesResponsive": {
+      "spring-replacement": {
+        "src": "/images/service-spring-replacement.webp",
+        "srcset": "/images/service-spring-replacement-400w.webp 400w, /images/service-spring-replacement-800w.webp 800w, /images/service-spring-replacement-1200w.webp 1200w, /images/service-spring-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "cable-repair": {
+        "src": "/images/service-cable-repair.webp",
+        "srcset": "/images/service-cable-repair-400w.webp 400w, /images/service-cable-repair-800w.webp 800w, /images/service-cable-repair-1200w.webp 1200w, /images/service-cable-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "opener-repair": {
+        "src": "/images/service-opener-repair.webp",
+        "srcset": "/images/service-opener-repair-400w.webp 400w, /images/service-opener-repair-800w.webp 800w, /images/service-opener-repair-1200w.webp 1200w, /images/service-opener-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "track-alignment": {
+        "src": "/images/service-track-alignment.webp",
+        "srcset": "/images/service-track-alignment-400w.webp 400w, /images/service-track-alignment-800w.webp 800w, /images/service-track-alignment-1200w.webp 1200w, /images/service-track-alignment.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "roller-replacement": {
+        "src": "/images/service-roller-replacement.webp",
+        "srcset": "/images/service-roller-replacement-400w.webp 400w, /images/service-roller-replacement-800w.webp 800w, /images/service-roller-replacement-1200w.webp 1200w, /images/service-roller-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "weather-seal-replacement": {
+        "src": "/images/service-weather-seal-replacement.webp",
+        "srcset": "/images/service-weather-seal-replacement-400w.webp 400w, /images/service-weather-seal-replacement-800w.webp 800w, /images/service-weather-seal-replacement-1200w.webp 1200w, /images/service-weather-seal-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "emergency-repair": {
+        "src": "/images/service-emergency-repair.webp",
+        "srcset": "/images/service-emergency-repair-400w.webp 400w, /images/service-emergency-repair-800w.webp 800w, /images/service-emergency-repair-1200w.webp 1200w, /images/service-emergency-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
